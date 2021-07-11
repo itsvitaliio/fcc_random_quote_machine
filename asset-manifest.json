@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/fcc_quote_machine/static/css/main.78c581eb.chunk.css",
-    "main.js": "/fcc_quote_machine/static/js/main.38d6b09c.chunk.js",
-    "main.js.map": "/fcc_quote_machine/static/js/main.38d6b09c.chunk.js.map",
-    "runtime-main.js": "/fcc_quote_machine/static/js/runtime-main.7020cbdf.js",
-    "runtime-main.js.map": "/fcc_quote_machine/static/js/runtime-main.7020cbdf.js.map",
-    "static/js/2.6f271d27.chunk.js": "/fcc_quote_machine/static/js/2.6f271d27.chunk.js",
-    "static/js/2.6f271d27.chunk.js.map": "/fcc_quote_machine/static/js/2.6f271d27.chunk.js.map",
-    "static/js/3.d4687e02.chunk.js": "/fcc_quote_machine/static/js/3.d4687e02.chunk.js",
-    "static/js/3.d4687e02.chunk.js.map": "/fcc_quote_machine/static/js/3.d4687e02.chunk.js.map",
-    "index.html": "/fcc_quote_machine/index.html",
-    "static/css/main.78c581eb.chunk.css.map": "/fcc_quote_machine/static/css/main.78c581eb.chunk.css.map",
-    "static/js/2.6f271d27.chunk.js.LICENSE.txt": "/fcc_quote_machine/static/js/2.6f271d27.chunk.js.LICENSE.txt"
+    "main.css": "/fcc_random_quote_machine/static/css/main.78c581eb.chunk.css",
+    "main.js": "/fcc_random_quote_machine/static/js/main.38d6b09c.chunk.js",
+    "main.js.map": "/fcc_random_quote_machine/static/js/main.38d6b09c.chunk.js.map",
+    "runtime-main.js": "/fcc_random_quote_machine/static/js/runtime-main.ef211061.js",
+    "runtime-main.js.map": "/fcc_random_quote_machine/static/js/runtime-main.ef211061.js.map",
+    "static/js/2.6f271d27.chunk.js": "/fcc_random_quote_machine/static/js/2.6f271d27.chunk.js",
+    "static/js/2.6f271d27.chunk.js.map": "/fcc_random_quote_machine/static/js/2.6f271d27.chunk.js.map",
+    "static/js/3.d4687e02.chunk.js": "/fcc_random_quote_machine/static/js/3.d4687e02.chunk.js",
+    "static/js/3.d4687e02.chunk.js.map": "/fcc_random_quote_machine/static/js/3.d4687e02.chunk.js.map",
+    "index.html": "/fcc_random_quote_machine/index.html",
+    "static/css/main.78c581eb.chunk.css.map": "/fcc_random_quote_machine/static/css/main.78c581eb.chunk.css.map",
+    "static/js/2.6f271d27.chunk.js.LICENSE.txt": "/fcc_random_quote_machine/static/js/2.6f271d27.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7020cbdf.js",
+    "static/js/runtime-main.ef211061.js",
     "static/js/2.6f271d27.chunk.js",
     "static/css/main.78c581eb.chunk.css",
     "static/js/main.38d6b09c.chunk.js"
